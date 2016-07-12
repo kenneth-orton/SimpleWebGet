@@ -1,9 +1,3 @@
-/* Kenneth Orton
- * ACO 330
- * Programming Assignment 
- * 10/20/2015
- * */
-
 import java.io.*;
 import java.net.*;
 import java.util.*;
