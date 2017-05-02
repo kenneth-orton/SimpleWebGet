@@ -5,7 +5,7 @@ Java program that uses a GET request to download items from the internet
 </p>
 
 <p align="center">
-  <img src="/img/simple_web_get.gif" width="700" height="800"/>
+  <img src="/img/simple_web_get.gif" width="700" height="750"/>
 </p>  
 
 
