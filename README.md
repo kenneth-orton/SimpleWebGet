@@ -1,5 +1,5 @@
 # simple_web_get
-Java program that uses a GET request to download items from the internet
+Uses a GET request to download items from the internet
 <p>
 <i>Currently can only download text files and certain images(bmp, png, jpeg, gif)</i>
 </p>
